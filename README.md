@@ -1,3 +1,1 @@
-# errors
-
-error handling and files
+Accessing files, avoiding errors with logic and handling errors with error-handling mechanisms.
